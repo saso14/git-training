@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_zsXfEU_4Eeugia-rgJhTEw" label="GitProject" description="" language="java" technicalLabel="GITPROJECT" creationDate="2021-01-06T08:23:00.730+0000" author="_zsXfEk_4Eeugia-rgJhTEw" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/saso14/git-training.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ">
+  <TalendProperties:Project xmi:id="_zsXfEU_4Eeugia-rgJhTEw" label="GitProject" description="" language="java" technicalLabel="GITPROJECT" creationDate="2021-01-06T08:23:00.730+0000" author="_zsXfEk_4Eeugia-rgJhTEw" productVersion="Talend Data Fabric-7.3.1.20200219_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/saso14/git-training.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3">
     <migrationTask xmi:id="_z0Q20E_4Eeugia-rgJhTEw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_zsXfEk_4Eeugia-rgJhTEw" login="admin@company.com" firstName="admin" lastName="admin" type="MDM" additionnalData="{}"/>
+  <TalendProperties:User xmi:id="_2R6lA0_4Eeugia-rgJhTEw" login="dev1@company.com" firstName="dev1" lastName="dev1" type="MDM" additionnalData="{}"/>
 </xmi:XMI>
